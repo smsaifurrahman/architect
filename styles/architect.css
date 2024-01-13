@@ -58,16 +58,18 @@ nav li a {
 }
 /* Banner styles */
 .banner {
-    border: 2px solid tomato;
+   
     
 }
 .banner-content {
     max-width: 800px;
     text-align: center;
     margin: 0 auto;
+  
 }
 .banner-title {
     font-size: 4rem;
+   
     font-weight: 700;
     color: var(--Dark-01, #131313);
 
@@ -78,8 +80,10 @@ nav li a {
     height: auto;
 } */
 .banner img{
-    margin-top: 20px;
+    margin-top:s 20px;
     width: 100%;
+    object-fit: cover;
+
 }
 
 
